@@ -1,0 +1,62 @@
+body {
+	/* background-color: #d8ba0f; */
+	background-image:url("https://media.giphy.com/media/l2SpVPT2FnKozPDby/giphy.gif"); background-repeat:repeat;
+	color: #232521;
+	box-sizing: border-box;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.app-container {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	/* min-height: 100vh; */
+	padding-bottom: 60px !important;
+	/* width: 100vw; */
+	box-sizing: border-box;
+	justify-content: center;
+	/* background-color: #680660; */
+
+}
+
+.main-heading {
+	font-family: 'Carter One', cursive;
+	font-size: 50px;
+	margin: 0;
+	margin-bottom: 2px;
+	color: #0286c3;
+	/* text-shadow: 2px 2px 5px #0101e9; */
+}
+.sub-heading {
+	font-family: 'Carter One', cursive;
+	font-size: 20px;
+	margin: 0;
+	margin-bottom: 1px;
+	/* color: #0286c3; */
+	/* text-shadow: 2px 2px 5px #0101e9; */
+}
+
+.yellow{
+	color: #fbb22e;
+}
+
+.red {
+	color: #ee244d
+}
+
+.green {
+	color: #168c39;
+}
+
+.test-container-main {
+	display: flex;
+	flex-direction: column;
+	justify-content: stretch;
+	/* background-color: #680660; */
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+
+	/* opacity: 0.5; */
+
+}
+/* <iframe src="https://giphy.com/embed/l3vRmI6kBWl4SoJkk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hallmarkecards-olympics-hallmark-ecards-l3vRmI6kBWl4SoJkk">via GIPHY</a></p> */
