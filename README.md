@@ -7,4 +7,4 @@ The project is based on the theme of today's hackathon Winter-Hacklympics. So it
 screenshots:
 ![1](https://github.com/lopeselio/TYP-Olympics/blob/main/1.png)
 ![2](https://github.com/lopeselio/TYP-Olympics/blob/main/2.png)
-1[3](https://github.com/lopeselio/TYP-Olympics/blob/main/3.png)
+![3](https://github.com/lopeselio/TYP-Olympics/blob/main/3.png)
