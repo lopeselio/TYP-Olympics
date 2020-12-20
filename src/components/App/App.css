@@ -35,6 +35,14 @@ body {
 	/* color: #0286c3; */
 	/* text-shadow: 2px 2px 5px #0101e9; */
 }
+.footer {
+	font-family: 'Carter One', cursive;
+	font-size: 10px;
+	/* margin: 0; */
+	margin-bottom: 1px;
+	/* color: #0286c3; */
+	/* text-shadow: 2px 2px 5px #0101e9; */
+}
 
 .yellow{
 	color: #fbb22e;

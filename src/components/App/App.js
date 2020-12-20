@@ -74,7 +74,10 @@ class App extends React.Component {
 						mistakes={this.state.detailsData.mistakes}
 						selectedParagraph={this.state.selectedParagraph}
 					/>
+				<div className="footer">Made with ❤ by Elio Jordan Lopes a.k.a devELIOper</div>
+
 				</div>
+
 			</div>
 		)
 	}
