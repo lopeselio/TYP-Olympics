@@ -2,7 +2,7 @@
  
 MLH - HackLympics 2020
 
-[Click here to type](https://typ-olympics.lopeselio.vercel.app/)
+[Click here to open TYP-Olympics](https://typ-olympics.lopeselio.vercel.app/)
 
 The project is based on the theme of today's hackathon Winter-Hacklympics. So it revolves around sports and olympic games. What better way for hackers to celebrate hacker-olympics (HackLympics) at home than by speed-typing on your own laptop or at your workspace, as it can be a great warm-up exercise for developers on a cold winter-day to get their fingers up and running. The project is aimed at testing the hacker's typing skills.
 
